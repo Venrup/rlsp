@@ -21693,8 +21693,8 @@ _.d=d
 _.e=e
 _.f=f
 _.r=g},
-aJo(a,b,c){var s=null,r=new A.KJ(new A.a3K(),A.ag(0,s,!1,t.Z))
-r.Yq(!1,s,s,"/",s,s,a,5,s,s,!1,b,c)
+aJo(a,b,c,d){var s=null,r=new A.KJ(new A.a3K(),A.ag(0,s,!1,t.Z))
+r.Yq(!1,s,s,a,s,s,b,5,s,s,!1,c,d)
 return r},
 KJ:function KJ(a,b){var _=this
 _.a=a
@@ -74877,7 +74877,7 @@ $S(){return this.b.i("0(J)")}}
 A.LJ.prototype={
 gKZ(){var s,r,q=this,p=q.d
 if(p===$){s=t.Kk
-r=A.aJo(new A.a7n(q),A.b([A.za(new A.a7o(),null,"/",A.b([A.za(A.Ya(),new A.a7p(),"addProduct",B.dU),A.za(A.Ya(),new A.a7q(),"updateProduct",B.dU),A.za(A.Ya(),new A.a7r(),"addCrop",B.dU)],s)),A.za(new A.a7s(),null,"/login",B.dU)],s),B.xh)
+r=A.aJo("/login",new A.a7n(q),A.b([A.za(new A.a7o(),null,"/",A.b([A.za(A.Ya(),new A.a7p(),"addProduct",B.dU),A.za(A.Ya(),new A.a7q(),"updateProduct",B.dU),A.za(A.Ya(),new A.a7r(),"addCrop",B.dU)],s)),A.za(new A.a7s(),null,"/login",B.dU)],s),B.xh)
 A.bP(q.d,"_router")
 q.d=r
 p=r}return p},
