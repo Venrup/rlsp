@@ -1,6 +1,6 @@
 {
-    "name": "rls_portal",
-    "short_name": "rls_portal",
+    "name": "test_web",
+    "short_name": "test_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
